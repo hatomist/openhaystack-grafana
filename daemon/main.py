@@ -1,4 +1,4 @@
-from AirTagCrypto import AirTagCrypto
+from openhaystack_python.AirTagCrypto import AirTagCrypto
 import requests
 from influxdb_client import InfluxDBClient, Point
 from influxdb_client.client.write_api import ASYNCHRONOUS

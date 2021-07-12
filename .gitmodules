@@ -1,0 +1,3 @@
+[submodule "daemon/openhaystack_python"]
+	path = daemon/openhaystack_python
+	url = git@github.com:hatomist/openhaystack-python.git
