@@ -1,4 +1,4 @@
-# Openhaystack-python
+# Openhaystack-grafana
 
 This python daemon will allow you to gather your Openhaystack-based airtag reports and display them on a Grafana dashboard. \
 _You can also use AirTagCrypto.py library alone to decrypt your reports via Python_
